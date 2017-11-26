@@ -1,0 +1,15 @@
+@charset "UTF-8";
+/* CSS Document */
+*{table-layout: fixed;}
+
+td{empty-cells:hide;}
+
+.skillName {text : bold;}
+
+.degree {}
+
+th.Co {background-color: yellow;}
+
+th.Ac {background-color: red;}
+
+th.Sr {background-color: blue;}
